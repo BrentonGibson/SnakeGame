@@ -1,4 +1,4 @@
-<h1>Snake Game</h1>
+<h1>🐍 Snake Game</h1>
 
 <h2>Description</h2>
 Developed a Snake Game using Python in the code editor Visual Studio Code by implementing my knowledge of
